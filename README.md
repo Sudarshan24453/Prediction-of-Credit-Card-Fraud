@@ -1,4 +1,4 @@
-FindDefault (Prediction of Credit Card Fraud)
+FindDefault (Prediction of Credit Card Fraud).
 Purpose
 This project aims to develop a machine learning model to predict fraudulent credit card transactions.
 
